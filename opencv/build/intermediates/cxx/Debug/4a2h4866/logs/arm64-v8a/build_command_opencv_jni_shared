@@ -1,0 +1,4 @@
+/Users/donme/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/donme/AndroidStudioProjects/ContourCamV2/opencv/.cxx/Debug/4a2h4866/arm64-v8a \
+  opencv_jni_shared
